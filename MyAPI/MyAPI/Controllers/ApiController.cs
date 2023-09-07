@@ -18,7 +18,7 @@ namespace MyAPI.Controllers
                 CurrentDay = DateTime.UtcNow.ToString("dddd"),
                 UtcTime = DateTime.UtcNow,
                 Track = track,
-                GitHubFileUrl = "https://github.com/username/repo/blob/main/file_name.ext",
+                GitHubFileUrl = "https://github.com/Sheyvie/MyAPI/blob/master/MyAPI/MyAPI/Controllers/ApiController.cs",
                 GitHubRepoUrl = "https://github.com/Sheyvie/MyAPI.git"
             };
 

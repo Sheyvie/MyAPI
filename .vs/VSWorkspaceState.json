@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\MyAPI",
+    "\\MyAPI\\MyAPI",
+    "\\MyAPI\\MyAPI\\Model"
   ],
+  "SelectedNode": "\\MyAPI\\MyAPI\\Model\\ApiResponse.cs",
   "PreviewInSolutionExplorer": false
 }
