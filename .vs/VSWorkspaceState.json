@@ -3,8 +3,9 @@
     "",
     "\\MyAPI",
     "\\MyAPI\\MyAPI",
+    "\\MyAPI\\MyAPI\\Controllers",
     "\\MyAPI\\MyAPI\\Model"
   ],
-  "SelectedNode": "\\MyAPI\\MyAPI\\Model\\ApiResponse.cs",
+  "SelectedNode": "\\MyAPI\\MyAPI\\Controllers\\ApiController.cs",
   "PreviewInSolutionExplorer": false
 }
